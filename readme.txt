@@ -5,3 +5,6 @@ Git is free softwareTest.
 第二天继续学习ing  quick and simple.
 修改dev
 修改
+
+
+idea manager project
